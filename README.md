@@ -1,5 +1,5 @@
 # bambooToGooglePFPs
-This Google Apps Script uses the BambooHR employee API and the Google AdminDirectory API to automatically download employee profile photos from BambooHR, and upload them to user's directories in Google Workspace.
+This Google Apps Script uses the BambooHR employee API and the Google Workspace AdminDirectory API to automatically download employee profile photos from BambooHR, and then upload them to user directories in Google Workspace.
 
 ## Develop
 ### Get Current Code
